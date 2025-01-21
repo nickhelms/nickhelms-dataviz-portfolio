@@ -1,37 +1,27 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+- Web page URL: [https://nickhelms.github.io/dataviz-portfolio/] (https://nickhelms.github.io/dataviz-portfolio/) 
+- This repository: [https://github.com/nickhelms/dataviz-portfolio] (https://github.com/nickhelms/dataviz-portfolio)
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! My name is Nick Helms and I use he/him pronouns. I'm a second-year Master of Arts Management student at Carnegie Mellon University's Heinz College. Most of my work is in theatre, particularly in development. After graduating, I'm hoping to find a job in fundraising or grantmaking for the arts!
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+I'm hoping to learn more about effective ways to use data in my workplace. As someone interested in fundraising for theatre and the arts, I see many ways this can take shape. Here are a few:
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. Crafting grant narratives that show impact, therefore minimizing giant blocks of text (and meeting word limits!)
+2. Engaging with audiences and funders to show how the organization is supporting the community and what it does to further its mission
+3. Streamlining the messaging that a marketing team might use with what the development office shares with donors and funders (building a brand identity)
 
 # Portfolio
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
