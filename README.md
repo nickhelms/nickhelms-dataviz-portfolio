@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-- Web page URL: [https://nickhelms.github.io/dataviz-portfolio/] (https://nickhelms.github.io/dataviz-portfolio/) 
-- This repository: [https://github.com/nickhelms/dataviz-portfolio] (https://github.com/nickhelms/dataviz-portfolio)
+- Web page URL: [https://nickhelms.github.io/dataviz-portfolio/](https://nickhelms.github.io/dataviz-portfolio/) 
+- This repository: [https://github.com/nickhelms/dataviz-portfolio](https://github.com/nickhelms/dataviz-portfolio)
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
