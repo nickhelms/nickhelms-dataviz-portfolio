@@ -21,7 +21,7 @@ I'm hoping to learn more about effective ways to use data in my workplace. I fee
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
-## Assignment: [Visualizing Government Debt](dataviz-examples)
+## Assignment: [Visualizing Government Debt](dataviz-examples.md#visualizing-government-debt)
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
