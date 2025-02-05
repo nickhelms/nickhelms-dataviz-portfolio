@@ -9,7 +9,10 @@ I want to dig into the changes in ticket prices for Broadway and tell the story 
 I will structure my project by starting with the attendance numbers themselves, which tell a positive story of building back to pre-pandemic numbers. From there, I will bring in the actual ticket pricing information, specifically broken down on numerous levels (musicals vs. plays, etc.). Then, I will show how this has not kept up with wage increases in the US and how ticket prices are greatly exceeding the speed of inflation. This is causing our audiences to buy fewer and fewer tickets, which I will evidence with a visualization from attendance data. Finally, my call to action will be that we need to find more ways to bring people into theatre, whether that's lower ticket prices or an increase in accessible pricing alternatives.
 
 ## Initial sketches
-
+<img src="IMG_7652.png" width="400"/>
+<img src="IMG_7653.png" width="400"/>
+<img src="IMG_7654.png" width="400"/>
+<img src="IMG_7655.png" width="400"/>
 
 # The data
 
