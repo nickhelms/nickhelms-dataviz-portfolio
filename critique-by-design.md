@@ -28,7 +28,7 @@ This visualization substitutes circles for the peak of each bar. I think it make
 
 ## Step four: Test the solution
 
-Questions to ask (modify these for your own interviews): 
+**Questions to ask**: 
 
 - Can you describe to me what this is telling you?
 
@@ -40,7 +40,7 @@ Questions to ask (modify these for your own interviews):
 
 - Is there anything you would change or do differently?
 
-Results: 
+**Results**: 
 
 The three people I interviewed are all students in their early-to-mid-20s. They come from the MSPPM program at Heinz College.
 
@@ -53,7 +53,7 @@ The three people I interviewed are all students in their early-to-mid-20s. They 
 |Are you surprised by anything you see?          |The variance is shocking, especially seeing how low Starbucks is in comparison.             |It's interesting that two companies seem to not serve lattes.             |The differences within and between companies are surprising.             |
 |Is there anything you would change or do differently?          |Maybe add in information about the prices of each drink at each company.             |I'd give a descriptive title and label the axes more clearly.             |Nothing else to add!            |
 
-Synthesis: 
+**Synthesis**: 
 
 It was interesting to see how they responded! I had forgotten to include the title and axis labels beforehand, so it was fascinating to hear that they thought it might represent price. I was not surprised to hear that the bar chart was the preferred style, as this was also my perception. I liked the comments about adding in pricing info and think that would be a cool comparison to see. I was glad to see a surprised response to the data itself; in seeing the original visualization, I didn't feel surprised, but the interviewees seemed shocked that certain companies (like Starbucks) were so low. It definitely gave me some ideas for continuing to refine the visualization.
 
@@ -69,6 +69,7 @@ It was interesting to see how they responded! I had forgotten to include the tit
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';           
   vizElement.parentNode.insertBefore(scriptElement, vizElement);     
 </script>
+
 
 I made some minor stylistic adjustments after the testing process. Namely, I added a title and axis labels to characterize the information. I also adjusted some formatting (font size, boldness, tick marks) to make it a little easier to parse through the important information. I looked into adding pricing information, but couldn't get consistent prices from some companies. They didn't include prices on their website, leading me to believe that it might vary among franchise locations. I also decided that adding pricing would create an entirely new meaning, so I decided to forego that. Ultimately, I find the final visualization to be much more impactful than the original in communicating the different amounts of caffeine at various companies.
 
