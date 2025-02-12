@@ -1,59 +1,76 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://nickhelms.github.io/nickhelms-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+# Critique and redesign: Caffeine content in coffee
+This assignment was a great opportunity to take a visualization and formulate my own opinions, then try my hand at redesigning it. I picked something near and dear to my heart - coffee.
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+Source: [https://www.which.co.uk/news/article/caffeine-levels-in-high-street-coffees-vary-significantly-which-finds-ay7cA4G1zh1S](https://www.which.co.uk/news/article/caffeine-levels-in-high-street-coffees-vary-significantly-which-finds-ay7cA4G1zh1S)
+
+<img width="777" alt="Screenshot 2025-02-11 at 9 03 11 PM" src="https://github.com/user-attachments/assets/324210dd-a4db-4762-b048-68e27caf87b6" />
+
+I selected this data visualization because I have a coffee problem and I wanted to learn about how a cup can vary from company to company. In seeing the visualization for the first time, I thought that it contained great information. However, I felt like the design aspect wasn't fully reaching its potential in communicating the message. The table format was helpful for seeing the numbers themselves, but didn't offer much in the way of comparison. I felt like this represented a good opportunity to use the same information, but depict it in a different way.
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+Generally, I thought the visualization was okay, but not great. While it contained the important information, it was more of a data dump and less of a demonstration of what it means. I think the target audience was clear, which was excellent. However, on top of the relevant info being portrayed poorly, I felt that the visualization contained some unnecessary information, such as the size of each drink. This had little variance across companies and so it felt unnecessary to include when the real takeaway was the stark differences in caffeine content. All things considered, I found the visualization to be fine, but felt that it could be fine-tuned to meet its goals in a more effective way.
 
 ## Step three: Sketch a solution
+I developed three rough visualizations in Tableau to have options for my final product:
+
+<img width="1146" alt="Screenshot 2025-02-11 at 9 11 00 PM" src="https://github.com/user-attachments/assets/7c7c1e5c-ed08-44c8-a8d8-54274d29bf2e" />
+This visualization is closest to what I identified in my critique, which is a bar chart to show the caffeine content for each company's drinks. It provides an easy way to see the caffeine content and how it varies across companies and drinks.
+
+<img width="1152" alt="Screenshot 2025-02-11 at 9 14 59 PM" src="https://github.com/user-attachments/assets/8432c3ac-f2f7-4333-8bb8-9dd6bb167287" />
+This visualization shows the data in a similar way, but creates horizontal bars to show the caffeine content. I found it a little easier for comparing different drinks within the same company.
+
+<img width="965" alt="Screenshot 2025-02-11 at 9 16 23 PM" src="https://github.com/user-attachments/assets/bd8ae91d-6cf0-4f78-a776-9030bc96bc46" />
+This visualization substitutes circles for the peak of each bar. I think it makes seeing extremes at each level quite obvious (high or low caffeine content), though it might make comparison a little more difficult.
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
 Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
 
 - Can you describe to me what this is telling you?
 
-- Is there anything you find surprising or confusing?
+- Which option do you prefer?
 
-- Who do you think is the intended audience for this?
+- Do color choices say anything to you?
+
+- Are you surprised by anything you see?
 
 - Is there anything you would change or do differently?
 
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+The three people I interviewed are all students in their early-to-mid-20s. They come from the MSPPM program at Heinz College.
 
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+| Question | Interview 1 | Interview 2 | Interview 3 |
+|----------|-------------|-------------|-------------|
+|Can you describe to me what this is telling you?          |It is comparing coffee across companies.             |Agreed, maybe the price of coffee?             |I think it is showing the caffeine content in different types of drinks at different companies.             |
+|Which option do you prefer?          |The bar chart.            |The bar chart.             |The bar chart.             |
+|Do color choices say anything to you?          |They definitely represent coffee.             |I think they are varied enough that you can easily tell which is which.             |I'm also getting a strong picture of coffee from the colors.             |
+|Are you surprised by anything you see?          |The variance is shocking, especially seeing how low Starbucks is in comparison.             |It's interesting that two companies seem to not serve lattes.             |The differences within and between companies are surprising.             |
+|Is there anything you would change or do differently?          |Maybe add in information about the prices of each drink at each company.             |I'd give a descriptive title and label the axes more clearly.             |Nothing else to add!            |
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+It was interesting to see how they responded! I had forgotten to include the title and axis labels beforehand, so it was fascinating to hear that they thought it might represent price. I was not surprised to hear that the bar chart was the preferred style, as this was also my perception. I liked the comments about adding in pricing info and think that would be a cool comparison to see. I was glad to see a surprised response to the data itself; in seeing the original visualization, I didn't feel surprised, but the interviewees seemed shocked that certain companies (like Starbucks) were so low. It definitely gave me some ideas for continuing to refine the visualization.
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+<div class='tableauPlaceholder' id='viz1739327775398' style='position: relative'><noscript><a href='#'><img alt='Caffeine amount varies greatly across coffee companiesSource: Which? ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;Caffeine_17393277458000&#47;Final&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Caffeine_17393277458000&#47;Final' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;Caffeine_17393277458000&#47;Final&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>     
+  var divElement = document.getElementById('viz1739327775398');        
+  var vizElement = divElement.getElementsByTagName('object')[0];         
+  vizElement.style.width='100%';
+  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';     
+  var scriptElement = document.createElement('script');        
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';           
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);     
+</script>
+
+I made some minor stylistic adjustments after the testing process. Namely, I added a title and axis labels to characterize the information. I also adjusted some formatting (font size, boldness, tick marks) to make it a little easier to parse through the important information. I looked into adding pricing information, but couldn't get consistent prices from some companies. They didn't include prices on their website, leading me to believe that it might vary among franchise locations. I also decided that adding pricing would create an entirely new meaning, so I decided to forego that. Ultimately, I find the final visualization to be much more impactful than the original in communicating the different amounts of caffeine at various companies.
 
 ## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+Loth, Shefalee. "Caffeine levels in high street coffees vary significantly, Which? finds." Which?, January 31, 2023. https://www.which.co.uk/news/article/caffeine-levels-in-high-street-coffees-vary-significantly-which-finds-ay7cA4G1zh1S.
 
