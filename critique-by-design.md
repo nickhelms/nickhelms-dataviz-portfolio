@@ -17,13 +17,13 @@ Generally, I thought the visualization was okay, but not great. While it contain
 ## Step three: Sketch a solution
 I developed three rough visualizations in Tableau to have options for my final product:
 
-<img width="1146" alt="Screenshot 2025-02-11 at 9 11 00 PM" src="https://github.com/user-attachments/assets/7c7c1e5c-ed08-44c8-a8d8-54274d29bf2e" />
+<img width="1146" alt="Screenshot 2025-02-11 at 9 52 11 PM" src="https://github.com/user-attachments/assets/02160e9b-4138-4b28-bc9b-10ff05419e25" />
 This visualization is closest to what I identified in my critique, which is a bar chart to show the caffeine content for each company's drinks. It provides an easy way to see the caffeine content and how it varies across companies and drinks.
 
-<img width="1152" alt="Screenshot 2025-02-11 at 9 14 59 PM" src="https://github.com/user-attachments/assets/8432c3ac-f2f7-4333-8bb8-9dd6bb167287" />
+<img width="1154" alt="Screenshot 2025-02-11 at 9 52 48 PM" src="https://github.com/user-attachments/assets/c62665cd-8346-4ca2-999f-63645d35e99e" />
 This visualization shows the data in a similar way, but creates horizontal bars to show the caffeine content. I found it a little easier for comparing different drinks within the same company.
 
-<img width="965" alt="Screenshot 2025-02-11 at 9 16 23 PM" src="https://github.com/user-attachments/assets/bd8ae91d-6cf0-4f78-a776-9030bc96bc46" />
+<img width="967" alt="Screenshot 2025-02-11 at 9 53 15 PM" src="https://github.com/user-attachments/assets/eabc6fa0-51ad-4537-af85-883fce57ac63" />
 This visualization substitutes circles for the peak of each bar. I think it makes seeing extremes at each level quite obvious (high or low caffeine content), though it might make comparison a little more difficult.
 
 ## Step four: Test the solution
@@ -59,15 +59,14 @@ It was interesting to see how they responded! I had forgotten to include the tit
 
 ## Step five: build the solution
 
-<div class='tableauPlaceholder' id='viz1739327775398' style='position: relative'><noscript><a href='#'><img alt='Caffeine amount varies greatly across coffee companiesSource: Which? ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;Caffeine_17393277458000&#47;Final&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Caffeine_17393277458000&#47;Final' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;Caffeine_17393277458000&#47;Final&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>    
-<script type='text/javascript'>     
-  var divElement = document.getElementById('viz1739327775398');        
-  var vizElement = divElement.getElementsByTagName('object')[0];         
+<div class='tableauPlaceholder' id='viz1739328667401' style='position: relative'><noscript><a href='#'><img alt='Caffeine amount varies greatly across coffee companiesSource: Which? ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;Caffeine_17393277458000&#47;Final&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Caffeine_17393277458000&#47;Final' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;Caffeine_17393277458000&#47;Final&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>             
+  var divElement = document.getElementById('viz1739328667401');              
+  var vizElement = divElement.getElementsByTagName('object')[0];              
   vizElement.style.width='100%';
-  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';     
-  var scriptElement = document.createElement('script');        
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';           
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);     
+  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';   
+  var scriptElement = document.createElement('script');           
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';      
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);          
 </script>
 
 
