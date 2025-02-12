@@ -50,7 +50,7 @@ The three people I interviewed are all students in their early-to-mid-20s. They 
 |Can you describe to me what this is telling you?          |It is comparing coffee across companies.             |Agreed, maybe the price of coffee?             |I think it is showing the caffeine content in different types of drinks at different companies.             |
 |Which option do you prefer?          |The bar chart.            |The bar chart.             |The bar chart.             |
 |Do color choices say anything to you?          |They definitely represent coffee.             |I think they are varied enough that you can easily tell which is which.             |I'm also getting a strong picture of coffee from the colors.             |
-|Are you surprised by anything you see?          |The variance is shocking, especially seeing how low Starbucks is in comparison.             |It's interesting that two companies seem to not serve lattes.             |The differences within and between companies are surprising.             |
+|Are you surprised by anything you see?          |The variance is shocking, especially seeing how low Starbucks is in comparison.             |It's interesting that two companies seem to not serve regular coffee.             |The differences within and between companies are surprising.             |
 |Is there anything you would change or do differently?          |Maybe add in information about the prices of each drink at each company.             |I'd give a descriptive title and label the axes more clearly.             |Nothing else to add!            |
 
 **Synthesis**: 
