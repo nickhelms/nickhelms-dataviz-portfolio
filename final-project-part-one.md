@@ -22,9 +22,9 @@ These data sources will allow me to create visualizations that show a clear upwa
 
 | Name | URL | Description |
 |------|-----|-------------|
-|Broadway Season Statistics      |https://www.broadwayleague.com/research/statistics-broadway-nyc/?utm_source=chatgpt.com     |This source contains data on gross revenues and attendance numbers for 1980 - 2024.             |
+|Broadway Season Statistics      |https://www.broadwayleague.com/research/statistics-broadway-nyc/     |This source contains data on gross revenues and attendance numbers for 1980 - 2024.             |
 |Broadway Season Statistics: 5-Season Detail      |https://www.broadwayleague.com/static/user/admin/media/statistics_broadway_2022-2023_5-season-detail.pdf     |This expands on the information provided on the Broadway League's website and provides more clarity on specific types of shows.             |
-|National Average Wage Index      |https://www.ssa.gov/oact/cola/AWI.html?utm_source=chatgpt.com     |This data set shows the average wages for 1951 to 2023.             |
+|National Average Wage Index      |https://www.ssa.gov/oact/cola/AWI.html     |This data set shows the average wages for 1951 to 2023.             |
 |Average admission at Broadway shows in New York 2022-2025, by week      |https://www-statista-com.us1.proxy.openathens.net/statistics/1286613/average-paid-admission-broadway-shows-new-york-by-week/     |This shows more specific data for the fluctuations in ticket prices by week for 2022 to the present.             |
 |NEA Survey of Public Participation in the Arts      |https://www.arts.gov/sites/default/files/2022-SPPA-final.pdf     |This data demonstrates that audiences are attending theatre less frequently than even just a few years ago.             |
 
