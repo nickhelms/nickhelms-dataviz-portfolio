@@ -18,7 +18,7 @@ I'm hoping to learn more about effective ways to use data in my workplace. I fee
 
 # Portfolio
 
-## Assignment: [Data Viz Examples](dataviz-examples.md#visualizing-government-debt)
+## Assignment: [Data Viz Examples](dataviz-examples)
 
 ## Assignment: [Critique by Design](critique-by-design)
 
