@@ -18,14 +18,8 @@ I'm hoping to learn more about effective ways to use data in my workplace. I fee
 
 # Portfolio
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
-
-## Assignment: [Visualizing Government Debt](dataviz-examples.md#visualizing-government-debt)
+## Assignment: [Data Viz Examples](dataviz-examples.md#visualizing-government-debt)
 
 ## Assignment: [Critique by Design](critique-by-design)
 
-## Final project: 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-[Part III](final-project-part-three)
+## Final project: [Part I](final-project-part-one) [Part II](final-project-part-two) [Part III](final-project-part-three)
